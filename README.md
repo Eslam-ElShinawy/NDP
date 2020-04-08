@@ -7,3 +7,5 @@ rename the jars to the current deployment jars.
 replace the jars with the new ones.
 
 start openended campaign handler.
+
+repeat the steps above for campaign handler as well.
